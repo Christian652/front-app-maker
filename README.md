@@ -1,4 +1,8 @@
 # front-app-maker
+
+é um script que cria um boilerplate de front-end bem simples com html css js e sass  
+bom para evitar perder tempo criando assets padrão
+
 copie o repositorio para o seu ambiente local  
 git clone https://github.com/Christian652/front-app-maker.git  
 
