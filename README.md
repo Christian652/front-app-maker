@@ -1,9 +1,13 @@
 # front-app-maker
-Abra um terminal e execute o seguinte comando 
+copie o repositorio para o seu ambiente local  
+git clone https://github.com/Christian652/front-app-maker.git  
 
-sh build.sh 
+Abra um terminal onde tenha o arquivo build.sh 
+e execute o seguinte comando   
 
-o script vai gerar uma pasta app com o seguinte 
+sh build.sh  
+
+o script vai gerar uma pasta app com o seguinte  
 
 /css/styles.css  
 /js/script.js  
